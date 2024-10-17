@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 This file is edited by me. I'm sure.
 Hello word
+=======
+>>>>>>> parent of dae3618 (resolve conflict after reset commit)
